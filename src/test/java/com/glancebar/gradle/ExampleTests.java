@@ -19,7 +19,6 @@ public class ExampleTests {
     }
 
     // Multiple Test
-
     @Test
     void multipleTest() {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
