@@ -1,4 +1,0 @@
-com/glancebar/gradle/App.java
- com.glancebar.gradle.App
-com/glancebar/gradle/Shape.java
- com.glancebar.gradle.Shape
