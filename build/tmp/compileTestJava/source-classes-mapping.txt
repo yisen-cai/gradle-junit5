@@ -1,0 +1,5 @@
+com/glancebar/gradle/ExampleTests.java
+ com.glancebar.gradle.ExampleTests
+ com.glancebar.gradle.ExampleTests$GroupingTest
+ com.glancebar.gradle.ExampleTests$GroupingTest$ShouldAllow
+ com.glancebar.gradle.ExampleTests$GroupingTest$ShouldNot
